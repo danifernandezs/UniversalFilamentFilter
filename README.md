@@ -7,10 +7,10 @@ Use extrusion force to clean the filament.
 1.75mm version
 2.85mm version (This one can be used for the 1.75mm too) (two in one)
 
-<img src="./img/001.jpg">
-<img src="./img/002.jpg">
-<img src="./img/003.jpg">
-<img src="./img/004.jpg">
+<img src="./img/001.png">
+<img src="./img/002.png">
+<img src="./img/003.png">
+<img src="./img/004.png">
 
 
 ##License
