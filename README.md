@@ -13,10 +13,10 @@ Use extrusion force to clean the filament.
 <img src="./img/004.png">
 
 
-##License
+## License
 
 <img src="./img/license/by-sa.png">
 
-Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. 
+This work is under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). 
 
 Please read the LICENSE files for more details.
